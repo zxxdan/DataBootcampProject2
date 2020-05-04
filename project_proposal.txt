@@ -1,0 +1,19 @@
+PROJECT PROPOSAL
+
+Although the scope of this particular project is not necessarily to do any sort of assessment, or answer any question. We felt that it was still easiest to ask a simple question we wanted to gain answers for.
+
+That question stemmed from an acquaintance of ours from the UK, who has also spent considerable time Canada. That awe inspiring question was, "How many car accidents happen in the UK vs Canada?"
+
+From there we found 2 sources of data, one for car accidents which occured between 1999 - 2014, and one for car accidents which occured between 2005 - 2015. 
+
+The goal is to link oin the data based on date, so that there is a logical frame in which we are able to present the data and charts.
+
+On top of this, the goal is to narrow down to a few key factors between both Canada and the UK (ie. Gender, Speed, Fatality, Number of Vehicles involved, etc.)
+
+
+Sources:
+Car Accidents Canada - 1999 - 2014
+https://www.kaggle.com/tbsteal/canadian-car-accidents-19942014#NCDB_1999_to_2014.csv
+
+Car Accidents UK - 2005 - 2015
+https://www.kaggle.com/silicon99/dft-accident-data
